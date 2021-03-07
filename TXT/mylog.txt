@@ -17,9 +17,11 @@ ZCZC W01  20 L01 SCELE Related
 ZCZC W01 110 L02 ZOOM Related
 ZCZC W01  60 L05 GSGS Related
 ZCZC W01  60 L23 Discord: Pop Quiz
+ZCZC W01 120 L21 VirtualBox: install GNU/Linux
 ZCZC W01 300 L11 Assignment #1
 ZCZC W01  20 L12 Assignment #2
 ZCZC W01  60 L13 Assignment #3
 ZCZC W01  60 L14 Assignment #4
 ZCZC W01  60 L15 Assignment #5
 ZCZC W01  15 L16 Assignment #6
+ZCZC W01 260 L17 Assignment #7

@@ -26,3 +26,16 @@ ZCZC W01  60 L15 Assignment #5
 ZCZC W01  15 L16 Assignment #6
 ZCZC W01 260 L17 Assignment #7
 ZCZC W01  30 L18 Assignment #8
+ZCZC W02  20 L01 SCELE Related
+ZCZC W02 100 L02 ZOOM Related
+ZCZC W02  30 L05 GSGS Related
+ZCZC W02  30 L12 Assignment #2 : Read OSC10 ch. 16 & 17
+ZCZC W02  60 L14 Assignment #4 : Generate a GnuPG Key Pair
+ZCZC W02  10 L15 Assignment #5 : Import Public Key
+ZCZC W02  10 L16 Assignment #6 : Export Public Key to be displayed
+ZCZC W02  15 L17 Assignment #7 : Pick 3 neighbors to be in myrank.txt
+ZCZC W02 300 L18 Assignment #8 : TOP 10 List of Week 02
+ZCZC W02  20 L19 Assignment #9 : Write (or copy) a simple and useful bash script (myscript.sh)
+ZCZC W02  15 L20 Assignment #10 : Update mylog.txt
+ZCZC W02  10 L20 Assignment #11 : Make SHA256SUM and sign it
+

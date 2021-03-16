@@ -30,6 +30,7 @@ ZCZC W02  20 L01 SCELE Related
 ZCZC W02 100 L02 ZOOM Related
 ZCZC W02  30 L05 GSGS Related
 ZCZC W02  30 L12 Assignment #2 : Read OSC10 ch. 16 & 17
+ZCZC W02  60 L13 Assignment #3 : Try Demo Week 2
 ZCZC W02  60 L14 Assignment #4 : Generate a GnuPG Key Pair
 ZCZC W02  10 L15 Assignment #5 : Import Public Key
 ZCZC W02  10 L16 Assignment #6 : Export Public Key to be displayed

@@ -48,3 +48,7 @@ ZCZC W03  30 L13 Assignment #3 : Update .bash_aliases
 ZCZC W03  15 L14 Assignment #4 : Pick 3 neighbors to be in myrank.txt
 ZCZC W03 300 L15 Assignment #5 : TOP 10 List of Week 03
 ZCZC W03  10 L16 Assignment #6 : Update mylog.txt
+ZCZC W03  15 L17 Assignment #7 : Download https://os.vlsm.org/WEEK/W03.tar.bz2.asc
+ZCZC W03  15 L18 Assignment #8 : Update bash script
+ZCZC W03   5 L19 Assignment #9 : Make SHA256SUM and sign it
+ZCZC W03  30 L23 Discord : Pop Quiz

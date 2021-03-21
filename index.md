@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 # Operating Systems 2021-1
 [Home](../) |
 [Week1](../W01/) |

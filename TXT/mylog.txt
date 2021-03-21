@@ -39,4 +39,12 @@ ZCZC W02 300 L18 Assignment #8 : TOP 10 List of Week 02
 ZCZC W02  20 L19 Assignment #9 : Write (or copy) a simple and useful bash script (myscript.sh)
 ZCZC W02  15 L20 Assignment #10 : Update mylog.txt
 ZCZC W02  10 L20 Assignment #11 : Make SHA256SUM and sign it
-
+ZCZC W03  15 L01 SCELE Related
+ZCZC W03 100 L02 Zoom Related
+ZCZC W03  30 L05 GSGS Related
+ZCZC W03  30 L11 Assignment #1 : Read OSC10 ch. 13, 14, 15
+ZCZC W03  30 L12 Assignment #2 : Try Demos Week 02 & Week 03
+ZCZC W03  30 L13 Assignment #3 : Update .bash_aliases
+ZCZC W03  15 L14 Assignment #4 : Pick 3 neighbors to be in myrank.txt
+ZCZC W03 300 L15 Assignment #5 : TOP 10 List of Week 03
+ZCZC W03  10 L16 Assignment #6 : Update mylog.txt

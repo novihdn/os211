@@ -1,8 +1,8 @@
 # Operating Systems 2021-1
 [Home](index) |
-[Week1](W01) |
-[Week2](W02) |
-[Week3](W03) |
+[Week1](w01) |
+[Week2](w02) |
+[Week3](w03) |
 [Key](TXT/mypubkey.txt) |
 [Rank](TXT/myrank.txt) |
 [Log](TXT/mylog.txt) |

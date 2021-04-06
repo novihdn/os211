@@ -63,4 +63,14 @@ ZCZC W04 300 L14 Assignment #4 : Top 10 List of Week 04
 ZCZC W04  15 L15 Assignment #5 : Update mylog.txt
 ZCZC W04  60 L16 Assignment #6 : Download https://os.vlsm.org/WEEK/WEEK04.tar.bz2.asc
 ZCZC W04  15 L17 Assignment #7 : Update bash script
-ZCZC W04   5 L18 Assignment #8 : Make SHA256SUM and sign it 
+ZCZC W04   5 L18 Assignment #8 : Make SHA256SUM and sign it
+ZCZC W05  15 L01 SCELE Related
+ZCZC W05 100 L02 ZOOM Related
+ZCZC W05  20 L05 GSGS Related
+ZCZC W05  30 L23 Discord : Pop Quiz
+ZCZC W05  10 L11 Assignment #1 : Read OSC10 ch. 10
+ZCZC W05  10 L12 Assignment #2 : Pick 3 neighbors to be in myrank.txt
+ZCZC W05 240 L13 Assignment #3 : Top 10 List of Week 05
+ZCZC W05 120 L14 Assignment #4 : Download https://os.vlsm.org/WEEK/WEEK05.tar.bz2.asc
+ZCZC W05  10 L15 Assignment #5 : Update mylog.txt
+ZCZC W05   5 L16 Assignment #6 : Make SHA256SUM and sign it  

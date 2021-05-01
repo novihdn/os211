@@ -12,4 +12,4 @@
 [GitHub](https://github.com/novihdn/os211)
 
 ## About
-Novi Handayani (Kelas A) 
+Novi Handayani (1906293272) 

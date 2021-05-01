@@ -2,7 +2,7 @@
 ZCZC W01 Pinatnat
 ZCZC W01 prajnapras19
 ZCZC W01 radityarestan
-ZCZC W02 originica
+ZCZC W02 Originica
 ZCZC W02 rafigabhira
 ZCZC W02 rafimuhammad01
 ZCZC W03 Pinatnat
@@ -14,4 +14,6 @@ ZCZC W04 RafiMoreno
 ZCZC W05 radityarestan
 ZCZC W05 rafigabhira
 ZCZC W05 RafiMoreno
-
+ZCZC W06 Originica
+ZCZC W06 RadhiansyaZ
+ZCZC W06 rafidirg

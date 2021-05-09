@@ -6,6 +6,7 @@
 [Week5](W05) |
 [Week6](W06) |
 [Week7](W07) |
+[Week8](W08) |
 [Key](TXT/mypubkey.txt) |
 [Rank](TXT/myrank.txt) |
 [Log](TXT/mylog.txt) |

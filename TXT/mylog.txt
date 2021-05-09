@@ -94,3 +94,13 @@ ZCZC W07 240 L13 Assignment #3 : Top 10 List of Week 07
 ZCZC W07 120 L14 Assignment #4 : Download https://os.vlsm.org/WEEK/WEEK07.tar.bz2.asc
 ZCZC W07  10 L15 Assignment #5 : Update mylog.txt
 ZCZC W07   5 L16 Assignment #6 : Make SHA256SUM and sign it
+ZCZC W08  30 L01 SCELE : Pop Quiz
+ZCZC W08 100 L02 ZOOM Related
+ZCZC W08  20 L05 GSGS Related
+ZCZC W08  20 L23 Discord Related
+ZCZC W08  10 L11 Assignment #1 : Read OSC10 ch. 5
+ZCZC W08  10 L12 Assignment #2 : Pick 3 neighbors to be in myrank.txt & Top 10 List of Week 08
+ZCZC W08 300 L13 Assignment #3 : build "Linux From Scratch (LFS)"
+ZCZC W08 120 L14 Assignment #4 : Place result into "W08/" folder and tarballed as "myW08.tar.bz2.asc"
+ZCZC W08  10 L15 Assignment #5 : Update mylog.txt
+ZCZC W08   5 L16 Assignment #6 : Make SHA256SUM and sign it
